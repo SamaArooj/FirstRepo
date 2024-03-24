@@ -4,3 +4,5 @@ int main()
 {
 	cout<<"Hello World";
 }
+
+//code by Hammad Maqbool
